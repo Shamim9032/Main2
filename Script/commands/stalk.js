@@ -20,7 +20,7 @@ module.exports.run = async function({ api, args, Users, event}) {
     var arraytag = [];
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
-a("~বস শাহাদাৎ এর ভালোবাসা নাও প্রিয়~");
+a("~বস রুদ্র এর ভালোবাসা নাও প্রিয়~");
 setTimeout(() => {a({body: "তোমাকে দেখলে আমার এত ভালো লাগে কেন জান আমি কিছুই তো বুঝতে পারি না💚 । 🥰।" + " " + name, mentions: arraytag})}, 3000);
 setTimeout(() => {a({body: "‎টমেটো লাল কাঁচা মরিচ ঝাল তোমার বুকের মাঝে চুমু দেবো আমি চিরকাল জান🙈🥀🥰   😍.." + " " + name, mentions: arraytag})}, 5000);
 setTimeout(() => {a({body: "‎༉༎༉😽!!লাইন টা তুমার জন্য  ডুবেছি আমি তুমার প্রেমের অনন্ত মায়ায় 🙈 ༅༎•❤️🌸🐰" + " " + name, mentions: arraytag})}, 7000);
@@ -29,7 +29,7 @@ setTimeout(() => {a({body: "~🖤এক আকাশ সমান স্বপ�
 setTimeout(() => {a({body: "ছেড়ে যাওয়ার যুগে সবার একটা থেকে যাওয়ার মানুষ হোক!💖আপনি আমার সে মানুষ🥀🌸 " + " " + name, mentions: arraytag})}, 15000);
 setTimeout(() => {a({body: "- সত্যি কারের ভালোবাসা গুলো এমনই হয় 😍🥀- কেউ কাউকে ছেড়ে যায় না শেষ পর্যন্ত থাকে 😊❤️i Love You Jan😘" + " " + name, mentions: arraytag})}, 17000);
 setTimeout(() => {a({body: "ডুবেছি আমি তোমার চোখের অন্তত মায়ায় 👀❤️‍🩹 🤟" + " " + name, mentions: arraytag})}, 20000);
-setTimeout(() => {a({body: " যেদিন তুমি সবকিছু বুঝতে পারবে - সেদিন আমি সিমান্ত থাকবো না! 🙂🌸 MAHFUJ PROJECT বট🤝" + " " + name, mentions: arraytag})},23000);
+setTimeout(() => {a({body: " যেদিন তুমি সবকিছু বুঝতে পারবে - সেদিন আমি সিমান্ত থাকবো না! 🙂🌸 𝐑𝐎𝐒𝐄  বট🤝" + " " + name, mentions: arraytag})},23000);
 setTimeout(() => {a({body: "- খুব জানতে ইচ্ছে করে.😥🌸 - কি লেখা আছে আমার এই জীবনের শেষের পাতায়.!💔😌" + " " + name, mentions: arraytag})},26000);  
 setTimeout(() => {a({body: "︵🦋シ-𝐃𝐨𝐧'𝐭 𝐂𝐫𝐲 𝐅𝐨𝐫 𝐒𝐨𝐦𝐞𝐨𝐧𝐞..!😇🙂-  𝘁𝗵𝗶𝘀 𝗮𝗯𝗼𝘂𝘁 𝗹𝗶𝗻𝗲 🐰✨ দিন শেষে আমি আমার  তোমাকেই লাগবে😊🦋︵🦋❤️‍🩹" + " " + name, mentions: arraytag})},29000);
   setTimeout(() => {a({body: "-︵🦋🤍___ღ༎হারিয়ে গেলে কেউ খুজবে না︵ღ۵__🙂 অথচ সবাই বলে তুমি হারিয়ে গেলে খুব Miss করবো___ღ༎🙂🦋🥀" + " " + name, mentions: arraytag})},32000);
